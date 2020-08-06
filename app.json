@@ -19,6 +19,12 @@
     "ios": {
       "supportsTablet": true
     },
+    "android": {
+      "package": "com.codingmechanic.mapcuny",
+      "config": {
+        "googleMaps": { "apiKey": "AIzaSyAN0RYZk_FyasgNj51y01Oi2hBNkhS2k8w" }   
+     }
+    },
     "web": {
       "favicon": "./assets/favicon.png"
     }
